@@ -1,0 +1,20 @@
+#top{
+    background-color: #EBEBEB;
+    position: relative;
+  }
+
+  
+  .topimg-area, .topimg-area img{
+    height: 100%;
+    position: relative;
+  }
+  
+  .topimg-area{
+    height:550px;
+  }
+  
+  .topimg-area img{
+    left:50%;
+    transform: translate(-50%, 0%); 
+  }
+  

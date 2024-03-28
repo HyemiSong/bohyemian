@@ -1,0 +1,15 @@
+#top{
+  background-color: #212A32;
+  position: relative;
+}
+.topimg-area, .topimg-area img{
+  height: 100%;
+  position: relative;
+}
+.topimg-area{
+  height:430px;
+}
+.topimg-area img{
+  left:50%;
+  transform: translate(-50%, 0%); 
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="1534.599 -897.011 336.917 39">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        font-size: 30px;
+        font-family: RobotoMono-Medium, Roboto Mono;
+        font-weight: 500;
+      }
+    </style>
+  </defs>
+  <g id="Group_12" data-name="Group 12" transform="translate(1528 -897)">
+    <g id="Group_11" data-name="Group 11" transform="translate(-16 -70)">
+      <g id="Group_10" data-name="Group 10" transform="translate(34.516 68.989)">
+        <text id="JOURNEYS_IN_BOSTON" data-name="JOURNEYS IN BOSTON" class="cls-1" transform="translate(0 32)"><tspan x="0" y="0">JOURNEYS IN BOSTON</tspan></text>
+        <circle id="Ellipse_9" data-name="Ellipse 9" class="cls-2" cx="3.108" cy="3.108" r="3.108" transform="translate(151.633 18.647)"/>
+        <circle id="Ellipse_10" data-name="Ellipse 10" class="cls-2" cx="3.108" cy="3.108" r="3.108" transform="translate(204.33 18.647)"/>
+      </g>
+      <g id="Group_9" data-name="Group 9" transform="translate(22.599 78.934)">
+        <circle id="Ellipse_7" data-name="Ellipse 7" class="cls-2" cx="3.108" cy="3.108" r="3.108" transform="translate(0 16.161)"/>
+        <circle id="Ellipse_8" data-name="Ellipse 8" class="cls-2" cx="3.108" cy="3.108" r="3.108"/>
+      </g>
+    </g>
+  </g>
+</svg>

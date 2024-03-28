@@ -1,0 +1,22 @@
+#top{
+  background-color: #EEEEEE;
+  position: relative;
+}
+.topimg-area, .topimg-area img{
+  height: 100%;
+  position: relative;
+}
+.topimg-area{
+  height:530px;
+}
+.topimg-area img{
+  left:50%;
+  transform: translate(-50%, 0%); 
+}
+
+.video-bg{
+  position:relative;
+  width:60%;
+  left: 50%;
+  transform: translate(-50%, 0%);
+}

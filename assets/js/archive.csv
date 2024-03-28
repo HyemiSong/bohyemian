@@ -1,0 +1,47 @@
+project,year,client,media,cate,sel,show,link,inout,feat
+Bohyemian Walk,2021,Individual,"Data Collection, Mixed Media",D,Y,Y,https://bohyemian.com/Bohyemianwalk,IN,N
+Error Analysis Toolkit (Responsible AI),2020,"Commercial, Microsoft","Data Vis, ML, OSS, Web",D,N,Y,http://techcommunity.microsoft.com/t5/azure-ai/responsible-machine-learning-with-error-analysis/ba-p/2141774,OUT,Y
+Azure Machine Learning,2020,"Commercial, Microsoft","ML, Web",UX,N,Y,http://azure.microsoft.com/en-us/services/machine-learning/,OUT,N
+Azure Cognitive Search,2019,"Commercial, Microsoft","Search Engine, Data Vis, Web",UX,N,Y,http://azure.microsoft.com/en-us/services/search/,OUT,Y
+Driving DNA,2019,"Commercial, MIT Senseable City Lab","Data Vis, Web",D,N,Y,https://bohyemian.com/Drivingdna/,IN,N
+Host Map,2019,"Commercial, Datadog","Data Vis, Web",D,N,N,N,N,N
+Service Map,2018,"Commercial, Datadog","Data Vis, Web",D,Y,Y,https://bohyemian.com/Servicemap/,IN,Y
+CityWays,2017,"Commercial, MIT Senseable City Lab","Data Vis, Web",D,Y,Y,https://bohyemian.com/Cityways/,IN,Y
+PisaPOOL,2016,"Commercial, MIT Senseable City Lab","Data Vis, Web",D,Y,Y,https://bohyemian.com/Pisapool/,IN,Y
+Urban Exposures,2016,"Commercial, MIT Senseable City Lab","Data Vis, Web",D,Y,Y,https://bohyemian.com/Urbanexposure/,IN,Y
+Walking in a place: Walkestra,2016,Individual,"Data, Research Book",D,Y,Y,https://bohyemian.com/Walkestra/,N,N
+urDATASOUNDCLOUD,2016,Individual,"App, Web",D,Y,Y,https://bohyemian.com/Urdatasound/,IN,N
+Measuring the Universe,2016,"Academic, Rhode Island School of Design","Teaching, Wintersession",UN,N,N,N,N,N
+Commentree,2016,Individual,"App, Mobile",UX,N,N,N,N,N
+Poli,2016,Individual,"App, Mobile",UX,N,N,N,N,N
+Solar System_Jacket Design,2016,Individual,"Music Jacket, Letter Press",G,N,N,N,N,Y
+Solar System,2016,Individual,"Data Art, AV Performance",D,Y,Y,https://bohyemian.com/Solarsystem/,IN,Y
+Hybrid Data Visualization,2015,Individual,"Data, Essay",A,N,N,https://medium.com/@hyemisong_76389/hybrid-data-visualization-2ac64595ff53,OUT,N
+Shodow from the Sun,2015,Individual,"Data Art, Digital Media Installation",D,Y,Y,https://bohyemian.com/Shadow/,IN,N
+Datalovers,2015,Individual,"Data Vis, Web/Mobile",D,Y,Y,https://bohyemian.com/Datalovers/,IN,Y
+"Interactivity of ""The Johnny cash Project""",2015,Individual,"Data, Essay",A,N,N,https://medium.com/@hyemisong_76389/interactivity-of-the-johnny-cash-project-7d167ced84c2,OUT,N
+Sylvia Day,2015,"Commercial, EyeballNYC","Branding, Paper/Web/Mobile",G,N,Y,https://bohyemian.com/Sylviaday/,IN,Y
+Phytoplankton Fireworks,2015,"Commercial, RISD Nature Lab","Data Vis, Web",D,Y,Y,https://bohyemian.com/Fireworks/,IN,Y
+Him,2014,Individual,"Hyperlink, Essay",A,N,N,https://medium.com/@hyemisong_76389/understanding-hypertext-fiction-through-him-163ae9b674ce,OUT,N
+Green Music Box,2014,Individual,"Data, Essay",A,N,N,https://www.slideshare.net/hyemisong/green-music-box-44013430?ref=https://www.behance.net/portfolio/editor?project_id=23170399,OUT,N
+Naver,2014,"Commercial, Naver Corporation","Portal Service, Mobile",UX,N,Y,https://bohyemian.com/Naver/,IN,Y
+me2day,2013,"Commercial, Naver Corporation","SNS, Mobile/Web",UX,N,Y,https://bohyemian.com/Me2day/,IN,Y
+Visualizing Works,2012,Individual,"Data Vis, Web",D,Y,Y,https://bohyemian.com/Visualizingworks/,IN,Y
+Data Lunch Box,2012,Individual,"Data Collection, Mixed Media",D,Y,Y,https://bohyemian.com/Datalunchbox,IN,N
+Baby League Lite 1.0 + Moms app,2011,"Commercial, Vinyl Interactive","App, Mobile",UX,N,N,https://play.google.com/store/apps/details?id=com.tuntun.babyleague.tickle&hl=en,OUT,N
+Social Game portal app G'minute,2011,"Commercial, Vinyl Interactive","App, Mobile",UX,N,N,N,N,N
+KT Olleh Square,2011,"Commercial, Vinyl Interactive","Space UX, Digital Media Installation",UN,Y,Y,https://bohyemian.com/Kt/,IN,Y
+Move to the Culture,2010,Individual,"Space UX, Digital Media Installation",UN,N,N,N,N,Y
+Face,2009,"Commercial, cafe 500","Audio Sound Art, Digital Media Installation",UN,N,N,N,N,Y
+Blow your mind,2008,Individual,"Media Art, Digital Media Installation",UN,N,N,N,N,N
+"Listen, I'm your Wilson",2009,Individual,"Social App, Digital Media Installation",UN,N,N,N,N,Y
+Nam June Paik,2008,Individual,Videography,UN,N,N,N,N,Y
+BMI (Body Mass Image-builder),2008,Individual,"Data Game, Digital Media Installation",D,N,N,N,N,Y
+NHRD,2008,"Commercial, Korea Human Resource Dev.","Infographic, Web",D,N,N,N,N,N
+Temperature of my mind,2007,Individual,"Data Vis, Print/Motion Graphic",D,Y,Y,https://bohyemian.com/Temperature/,IN,Y
+Soribogi (Visualizing Sound),2006,Individual,"Clay Animation, Video",UN,N,N,N,N,Y
+"TV CF, Dino Land",2004,"Commercial, Dino Land","Clay Animation, TV",UN,N,N,N,N,N
+"KBS TV cartoon ""I love you, mom""",2004,"Commercial, KBS","Clay Animation, TV",UN,N,N,N,N,N
+"KBS TV cartoon ""Love Jisun""",2004,"Commercial, KBS","Clay Animation, TV",UN,N,N,N,N,N
+"KBS TV cartoon ""HeeA""",2004,"Commercial, KBS","Clay Animation, TV",UN,N,N,N,N,N
+Spoon Man,2003,Individual,"Clay Animation, Video",UN,N,N,N,N,Y
